@@ -1,0 +1,6 @@
+[submodule "EmployeeManager-Frontend"]
+	path = EmployeeManager-Frontend
+	url = https://github.com/AvdhootJadhav/EmployeeManager-Frontend
+[submodule "EmployeeManager-Backend"]
+	path = EmployeeManager-Backend
+	url = https://github.com/AvdhootJadhav/EmployeeManager-Backend
